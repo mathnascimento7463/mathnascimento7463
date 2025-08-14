@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello there! I'm Matheus Nascimento. 🏨
 
-<!--
-**mathnascimento7463/mathnascimento7463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/mathnascimento7463">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathnascimento7463&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mathnascimento7463&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
-Here are some ideas to get you started:
+## 🌱 I’m learning 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me: 
+<div>
+<a href="https://www.instagram.com/math.nascimento2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusnascimento9276@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## Something about me ✋:  
+  - I currently work in a beach hotel in Brasil's northeast 🏖️
+  - Looking to acquire some knowledge and find my place in this amazing area 📝
+  - Love animals, love gaming (single player mostly) and question as much as I need.
